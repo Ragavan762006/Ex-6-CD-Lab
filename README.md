@@ -13,6 +13,7 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
 # PROGRAM
+```
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
@@ -47,6 +48,7 @@ int main()
     fclose(fp);
     return 0;
 }
+```
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/ba2c5f20-e43e-4ebf-be9e-bf4860de96d3)
 # PROGRAM OUTPUT
